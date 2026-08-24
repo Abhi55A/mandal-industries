@@ -1083,11 +1083,11 @@ Mandal Industries
                   </p>
 
                   <a
-                    href="mailto:mandalengineering27\@gmail.com"
-                    className="mt-2 block font-semibold text-[#c9ef45]"
-                  >
-                    mandalengineering27\@gmail.com
-                  </a>
+  href="mailto:mandalengineering27@gmail.com"
+  className="mt-2 block font-semibold text-[#c9ef45]"
+>
+  mandalengineering27@gmail.com
+</a>
 
                 </div>
 
